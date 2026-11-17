@@ -1,6 +1,19 @@
-# 🎓 Study Helper Agent
+<p align="center">
+  <img src="docs/banner.svg" alt="Study Helper Agent: grounded RAG study assistant" width="100%">
+</p>
 
-An autonomous AI agent that ingests your lecture notes and answers questions grounded in that material using **Google Gemini**, **Redis**, and **RAG (Retrieval-Augmented Generation)**.
+<p align="center">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-18%2B-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-green?style=flat-square">
+</p>
+
+<p align="center">
+  An autonomous AI agent that ingests your lecture notes and answers questions grounded in that material<br>
+  using <b>Google Gemini</b>, <b>Redis</b> and <b>RAG (Retrieval-Augmented Generation)</b>. If the answer isn't in your notes, it says so.
+</p>
 
 ## 📋 Features
 
@@ -352,4 +365,4 @@ MIT License — see LICENSE file for details
 
 ---
 
-**Built by Abdul Muhaiminhan** | Last updated: January 2025
+<p align="center">Built by <a href="https://github.com/AbdulMuhaiminKhan">Abdul Muhaimin Khan</a></p>
